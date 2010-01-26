@@ -1,4 +1,4 @@
-/* Formattazione header1, header2 */
+/* Formattazione header1, header2, header3 */
 
 h1 {
 		font-family:arial;
@@ -13,3 +13,20 @@ h2 {
 		color:red;
 		text-align:center
 	}
+	
+h3 {
+		font-family:arial;
+		font-size:14pt;
+		color:red;
+		text-align:left
+	}
+	
+
+/* Font standard per paragrafi */
+
+p {
+		font-family:arial;
+		font-size:14pt;
+		font-color:black
+	}
+			
